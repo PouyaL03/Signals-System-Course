@@ -29,6 +29,6 @@ The project involves implementing a **JPEG compression algorithm**, where studen
 Key aspects of the project include:
 - Compressing an image step-by-step using DCT, quantization, and encoding techniques.  
 - Emphasis on clarity and proper commenting for code understanding.  
-- 
+  
 ## References
 The course is based on *Signals and Systems* by Alan V. Oppenheim.
